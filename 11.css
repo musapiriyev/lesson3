@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.obwi{
+    margin:auto;
+ width: 560px;
+ height:1185px ;
+}
+.fixed{
+    width: 219.33px;
+    height: 144px;
+    position: fixed;
+    top:left;
+    background-color: #ccc;
+    text-align: center;
+    padding: 20px;
+    margin-top:0;
+    margin-left:0;
+}
+.relative{
+width:560px;
+height:200px;
+background-color: #ccc;
+position: relative;
+text-align: center;
+padding-top: 50px;
+}
+.absolute{
+width:250px;
+height:104px;
+background-color:rgb(131, 125, 125);
+position: absolute;
+right:-30px;
+bottom: 0;
+
+text-align: center;
+padding-top: 50px;
+}
+p{
+    font-size: 20px;
+}
